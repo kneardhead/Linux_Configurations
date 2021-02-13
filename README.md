@@ -16,4 +16,4 @@ And all of these codes have been found after searching it in different websites,
 
 ### The Software the files Run on
 I can just show off Neofetch
-![alt text](https://github.com/kneardhead/Linux_Configurations//Kazam_screenshot_0006.png)
+![alt text](https://github.com/kneardhead/Linux_Configurations//Kazam_screenshot_00007.png)

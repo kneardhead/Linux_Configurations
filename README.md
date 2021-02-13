@@ -1,10 +1,28 @@
 # Linux_Configurations
 
-The weakness towards Linux starts after I find a gem as I started to look for fast ways to write [math] \LaTeX [/math]. The gem is [](castel.dev) where Mr. Gilles Castel perfecty explains his configurations that makes his math rendering as fast as taking note in real time. Of course, I fell in love with this site and have read the 1st Article more than a hundred times for sure (mostly after getting Linux running on the machine). 
+I currently run a **GNU/Linux Ubuntu 20.04 LTS** with *bspwm* and hope to find an old computer to experiment with other Linux Kernels and Distributions. And also an important point I don't know much about computers, except rendering $$\LaTeX$$ in it.  
+
+The weakness towards Linux starts after I find a gem as I started to look for fast ways to write $$\LaTeX$$ (scandalous, why is LaTeX not being rendered?). The gem is [](castel.dev) where Mr. Gilles Castel perfecty explains his configurations that makes his math rendering as fast as taking note in real time. Of course, I fell in love with this site and have read the 1st Article more than a hundred times for sure (mostly after getting Linux running on the machine). 
 
 I wanted something like him, the idea of using LaTeX snippets was just mindblowing (literally a heavenly blessing) but I had no knowledge how those things worked, all I could imitate was the use of snippets in Visual Studio Code and nothing else. I was then a Windows 10 user and installed Vim. It was bit to learn, and I couldn't understand how the Vim-Plug or VimTex worked, after being overwhelmed knowing how Vimrc was being configured to do so. 
 
-But I should say, using snippets in LaTeX had later given me the opputunity to write things that I might have never done. I am extremely gratified I came across the Masterpiece of Mr. Gilles Castel, I am very grateful for this piece of knowledge from Him.
+But I should say, using snippets in LaTeX had later given me the opputunity to write things that I might have never done. I am extremely gratified I came across the Masterpiece of Mr. Gilles Castel, I am very grateful for this piece of knowledge from Him. It had dramatically speed up my work and let me do writing math texts very quickly.
+
+Thankfully at the middle of January my Windows 10 updates and becomes excrutiatingly slow. After all the failed attempts to recover it back to speed, I started to think about RAM and ask my mates who had more idea on this. But then came the perfect idea to get Linux in the machine.
+
+I immediately call Alex vai (stands for brother) who had been in CS Department, he gives the advice for a Dual Boot that would have been a perfect choice. But after the Linux live boots, I mess up the partition or something, I don't know. I remember thinking, "what the heck is this sda1,2,3?" as it required some configs. 
+
+Not to mention the thrill that I had through the body after seeing the word "Ubuntu" in the black screen as the computer booted.
+
+I abort and boot in Windows, put all the docs I had in a stick and make the decision to format the C: drive for once and for all (I mean erase windows completely). It was very late at night then.
+
+I chose "erase completely" and let Ubuntu do it's job. The first installation after being complete failed. I did it again. Next time it booted. But it had then lost it's something called grub - i386 or some.
+
+I was genuinely scared but found some solution called GRUB rescue. Thank God I knew how terminals worked otherwise I was done. Thanks to those moments when I would execute "sudo apt install vim" in Windows command prompt. Finally, at the time of dawn, I guess, the GRUB rescue completely fails, the rescue worked if the file was displaced, but in my case the file was not even in the machine. But someone (I genuinely hope that he lives in peace and happiness) told a method of live booting and executing a command. It worked. 
+
+I was shaking of cold by then, mosquito's had already made an Orchestra around. I took off the table and was a proud boy staring at the purple/violet/something (colorblind vibes) cat looking at me (Focal Fossa).
+
+
 
 
 
@@ -28,3 +46,5 @@ And all of these codes have been found after searching it in different websites,
 
 I can just show off Neofetch, adorned by the Picom blurring, with the polybar --grayblocks in the bottom.
 ![alt text](https://github.com/kneardhead/Linux_Configurations/blob/main/Kazam_screenshot_00007.png)
+
+And yes I know, readme files aren't daily diaries, but who cares anyway about the github etiquettes? (github doesn't even render LaTeX!)

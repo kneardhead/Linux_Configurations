@@ -2,6 +2,9 @@
 
 I currently run a **GNU/Linux Ubuntu 20.04 LTS** with *bspwm* and hope to find an old computer to experiment with other Linux Kernels and Distributions. And also an important point I don't know much about computers, except rendering $$\LaTeX$$ in it.  
 
+### Historical Backgrounds
+##### Nobody has made the ruling that README.md should follow Landau-Lifshitz Conventions. Even if someone does; by the wau, who would do these nonsense here except me.
+
 The weakness towards Linux starts after I find a gem as I started to look for fast ways to write $$\LaTeX$$ (scandalous, why is LaTeX not being rendered?). The gem is [](castel.dev) where Mr. Gilles Castel perfecty explains his configurations that makes his math rendering as fast as taking note in real time. Of course, I fell in love with this site and have read the 1st Article more than a hundred times for sure (mostly after getting Linux running on the machine). 
 
 I wanted something like him, the idea of using LaTeX snippets was just mindblowing (literally a heavenly blessing) but I had no knowledge how those things worked, all I could imitate was the use of snippets in Visual Studio Code and nothing else. I was then a Windows 10 user and installed Vim. It was bit to learn, and I couldn't understand how the Vim-Plug or VimTex worked, after being overwhelmed knowing how Vimrc was being configured to do so. 
@@ -18,11 +21,11 @@ I abort and boot in Windows, put all the docs I had in a stick and make the deci
 
 I chose "erase completely" and let Ubuntu do it's job. The first installation after being complete failed. I did it again. Next time it booted. But it had then lost it's something called grub - i386 or some.
 
-I was genuinely scared but found some solution called GRUB rescue. Thank God I knew how terminals worked otherwise I was done. Thanks to those moments when I would execute "sudo apt install vim" in Windows command prompt. Finally, at the time of dawn, I guess, the GRUB rescue completely fails, the rescue worked if the file was displaced, but in my case the file was not even in the machine. But someone (I genuinely hope that he lives in peace and happiness) told a method of live booting and executing a command. It worked. 
+I was genuinely scared with the black screen and blinking horizontal cursor, but soon found some solution called GRUB rescue. Thank God I knew how terminals worked otherwise I was done. Thanks to those moments when I would execute "sudo apt install vim" in Windows command prompt. Finally, at the time of dawn, I guess, the GRUB rescue completely fails, the rescue worked if the file was displaced, but in my case the file was not even in the machine. But someone (I genuinely hope that he lives in peace and happiness) told a method of live booting and executing a command. It worked. 
 
 I was shaking of cold by then, mosquito's had already made an Orchestra around. I took off the table and was a proud boy staring at the purple/violet/something (colorblind vibes) cat looking at me (Focal Fossa).
 
-
+I later spent over two weeks configuring bspwm and things, just as Mr. Gilles Castel as if I didn't have school to do or life to lead. After most things looked similar, I started reordering things the way it felt natural and quick to me. Again, my configurations are heavily dependent (or use the word biased) from the tutorials I followed, but anyways I am extremely satisfied with what is running.
 
 
 

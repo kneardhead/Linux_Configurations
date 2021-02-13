@@ -1,0 +1,34 @@
+#! /bin/sh
+
+#sxhkd keybiding assist
+sxhkd &
+#picom window transparency !uses compton configuration
+picom &
+#polybar is set for the status bar information, the desired one is "grayblocks"
+pkill polybar
+bash ~/.config/polybar/launch.sh --grayblocks
+
+
+# use pywal coloring for my system.
+wal -R
+bash wall --theme base16-nord
+
+bspc monitor -d I II III
+
+bspc config border_width        1
+bspc config window_gap          3
+bspc config split_ratio          0.54
+bspc config borderless_monocle   true
+bspc config gapless_monocle      true
+
+bspc rule -a Gimp desktop='^8' state=floating follow=on
+bspc rule -a Chromium desktop='^2'
+bspc rule -a mplayer2 state=floating
+bspc rule -a Kupfer.py focus=on
+bspc rule -a Screenkey manage=off
+bspc rule -a Zathura state=tiled
+
+
+nitrogen --set-scaled /home/sabit/polybar-themes/wallpapers/bg_3.jpg
+
+

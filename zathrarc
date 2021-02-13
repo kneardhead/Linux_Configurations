@@ -1,0 +1,7 @@
+set adjust-open "width"
+
+set pages-per-row 0.8
+
+set scroll-page-aware "true"
+
+set zoom-min 30

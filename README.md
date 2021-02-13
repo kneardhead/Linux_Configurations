@@ -27,7 +27,9 @@ I was shaking of cold by then, mosquito's had already made an Orchestra around. 
 
 I later spent over two weeks configuring bspwm and things, just as Mr. Gilles Castel as if I didn't have school to do or life to lead. After most things looked similar, I started reordering things the way it felt natural and quick to me. Again, my configurations are heavily dependent (or use the word biased) from the tutorials I followed, but anyways I am extremely satisfied with what is running now.
 
-I hope to make a clearer text on things I've done in order to lessen the toil of someone else trying to do the same.
+I hope to make a clearer text on things I've done in order to lessen the toil of someone else trying to do the same. 
+
+And yes, a small info I would have liked to given my 2 month old past when considering Linux, if new and crisp pc comes with process speed (I don't know CS Term) as 100, then my Windows before update did somewhat of unitless scale 65, after update ~20, and after linux around 80-95. Only limit is how fast I type commands in terminal.
 
 
 ### Brief comments on the files

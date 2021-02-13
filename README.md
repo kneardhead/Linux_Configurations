@@ -1,6 +1,6 @@
 # Linux_Configurations
 
-The weakness towards Linux starts after I find a gem as I started to look for fast ways to write [math] \LaTeX [/math]. The gem is : castel.dev where Mr. Gilles Castel perfecty explains his configurations that makes his math rendering as fast as taking note in real time. Of course, I fell in love with this site and have read the 1st Article more than a hundred times for sure (mostly after getting Linux running on the machine). 
+The weakness towards Linux starts after I find a gem as I started to look for fast ways to write [math] \LaTeX [/math]. The gem is (castel.dev) where Mr. Gilles Castel perfecty explains his configurations that makes his math rendering as fast as taking note in real time. Of course, I fell in love with this site and have read the 1st Article more than a hundred times for sure (mostly after getting Linux running on the machine). 
 
 I wanted something like him, the idea of using LaTeX snippets was just mindblowing (literally a heavenly blessing) but I had no knowledge how those things worked, all I could imitate was the use of snippets in Visual Studio Code and nothing else. I was then a Windows 10 user and installed Vim. It was bit to learn, and I couldn't understand how the Vim-Plug or VimTex worked, after being overwhelmed knowing how Vimrc was being configured to do so. 
 

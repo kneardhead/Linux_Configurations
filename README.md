@@ -49,7 +49,7 @@ And all of these codes have been found after searching it in different websites,
 
 ### Tutorials (to whom I am genuinely grateful)
 
-**bspwm:** 1. [Fundamental Installation](https://www.youtube.com/watch?v=k7z1CkpsYgQ) I followed it step by step and basically everthing worked. A very nice and simple tutorial. 
+**bspwm:** 1. [Fundamental Installation](https://www.youtube.com/watch?v=k7z1CkpsYgQ) I followed it step by step and basically everthing worked. A very nice and simple tutorial. <nl>  
            2. [Configuration](https://www.youtube.com/watch?v=_55HGnz422M) I didn't learn anything regarding the installation process, but this video helped me a lot to configure things and understand for what they were used. 
 
 ### The Software the files Run on

@@ -49,8 +49,13 @@ And all of these codes have been found after searching it in different websites,
 
 ### Tutorials (to whom I am genuinely grateful)
 
-**bspwm:** 1. [Fundamental Installation](https://www.youtube.com/watch?v=k7z1CkpsYgQ) I followed it step by step and basically everthing worked. A very nice and simple tutorial. <nl>  
-           2. [Configuration](https://www.youtube.com/watch?v=_55HGnz422M) I didn't learn anything regarding the installation process, but this video helped me a lot to configure things and understand for what they were used. 
+**bspwm:** <nl> 
+           1. [Fundamental Installation](https://www.youtube.com/watch?v=k7z1CkpsYgQ) I followed it step by step and basically everthing worked. A very nice and simple tutorial. <nl>  
+           2. [Configuration](https://www.youtube.com/watch?v=_55HGnz422M) I didn't learn anything regarding the installation process, but this video helped me a lot to configure things and understand for what they were used. <nl>
+           3. [Under the Hood](https://github.com/baskerville/bspwm) Because I am into Physics. <nl>
+           4. [Full Configuration](https://dev.to/l04db4l4nc3r/bspwm-a-bare-bones-window-manager-44di) Unargueably (spelling?) the best and most broad tutorial that helps to completely configure bspwm. From polybar to rofi, it has all. By the way, the Compton (window opacity manager, type of) didn't work for me. I found it was not being maintained anymore, but it's offspring Picom was. I installed picom but it's effect was not what I wanted, the opacity manager was not changing opacity even if I changed the value in .conf file. But as I copy paste an example .conf file of Compton in Picom .conf, it worked perfectly. I also had a lot of issue with polybar I don't remember how I solved later, but all I recall it took me a great amount of time to get that the way I wanted.
+           
+           
 
 ### The Software the files Run on
 

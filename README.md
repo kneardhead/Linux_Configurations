@@ -47,6 +47,10 @@ why would I bother to commit the greatest mistake without adding the vimrc file.
 
 And all of these codes have been found after searching it in different websites, I am thankful of all the minds who worked out the codes and made it online for beginners like me to use. I look forward to acknowledge all of the links as soon as possible.
 
+### Tutorials (to whom I am genuinely grateful)
+
+**bspwm:** 1. https://www.youtube.com/watch?v=k7z1CkpsYgQ 
+
 ### The Software the files Run on
 
 I can just show off Neofetch, adorned by the Picom blurring, with the polybar --grayblocks in the bottom.

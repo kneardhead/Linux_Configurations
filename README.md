@@ -61,6 +61,10 @@ And all of these codes have been found after searching it in different websites,
 
 I can just show off Neofetch, adorned by the Picom blurring, with the polybar --grayblocks in the bottom.
 ![alt text](https://github.com/kneardhead/Linux_Configurations/blob/main/Kazam_screenshot_00007.png)
+
+I have made some changes in the next two images, specially, the `grayblocks` theme from polybar has been heavily changed to make it thinner and be transparent.
+
 ![alt text](https://github.com/kneardhead/Linux_Configurations/blob/main/Kazam_screenshot_00008.png)
+
 ![alt text](https://github.com/kneardhead/Linux_Configurations/blob/main/Kazam_screenshot_00009.png)
 And yes I know, readme files aren't daily diaries, but who cares anyway about the github etiquettes? (github doesn't even render LaTeX!)
